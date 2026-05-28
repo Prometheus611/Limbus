@@ -1,7 +1,7 @@
 Sinners: contains information about the sinners of the company
   id           Unique id Primary key
   Sinner_name  The name of the sinner
-  Source       Literally source of where the sinner is from
+  Source       Literally source of where the sinner is originally from
   Bday         The date of the sinners birth month/day
   Sin_id       ID of the sinner's corespondig sin affinity Foreign key
   Subtitle     Unique subtitle related to the sinner
