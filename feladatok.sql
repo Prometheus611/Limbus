@@ -7,4 +7,4 @@ where Bday like "%February%"
 -- 5 csinálj egy lekérdezést ami vissza ad minden olyan EGO-t amit Don Quixote képes manifesztálni és aminek az affinítása "envy"  
 -- 6 csinálj egy lekérdezést ami vissza adja azt hogy hány darab olyan EGO van aminek a hozzárendelt abnormalityja WAW beosztásban van
 -- 7 csinálj egy lekérdezést ami vissza ad minden olyan ZAYIN kategóriás abnormalityt aminek van hozzárendelt EGO-ja
--- 8 az abnormalityk besorolása 4 részből áll az első az eredete (F tündér mese, T trauma, M mitológia, O ismeretlen) a második a formálya (01 humanoid, 02 állati, 03 vallási, 04 tárgy, 05 gép, 06 absztrakt, 09 eszköz)
+-- 8 az abnormalityk besorolása 4 részből áll az első az eredete (F tündér mese, T trauma, M mitológia, O ismeretlen) a második a formálya (01 humanoid, 02 állati, 03 vallási, 04 tárgy, 05 gép, 06 absztrakt, 09 eszköz) a harmadik egy egyedi azonosító és a negyedik az abnormality veszély besorolásáta utal. Írj egy lekérdezést ami vissza ad minden tündérmeséből jövő humanoid abnormalityt
