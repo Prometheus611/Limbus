@@ -1,0 +1,26 @@
+Sinners: contains information about the sinners of the company
+  id           Unique id Primary key
+  Sinner_name  The name of the sinner
+  Source       Literally source of where the sinner is from
+  Bday         The date of the sinners birth month/day
+  Sin_id       ID of the sinner's corespondig sin affinity Foreign key
+  Subtitle     Unique subtitle related to the sinner
+
+EGO: contains information about all the EGOs the sinners can manifest during combat
+  id        Unique id Primary key
+  S_id      The id of the sinner who can manifest the EGO Foreign key
+  EGO_name  The name of the ego
+  Abon      The abnormality wich the EGO is extracted from  Foreign key
+  Sin_id    ID of the EGO's coresponding sin affinity Foregin key
+
+Abno: contains information about the abnormalities encountered by Limbus company
+  id                Unique id Primary key
+  Claassification   A unique classification code of each abnormality
+  Abno_name         Name of the abnormality
+  risk              The level of threat the abnormality is classified by, from lowest to highest ZAYIN < TETH < HE < WAW < ALEPH
+  EGO               The name of the EGO that can be extracted from each the abnormalite
+
+Sins: contains the names and coresponding statuses of sins
+  id        unique id Primary key
+  Sin_name  Name of the sin
+  status    coresponding status effect of the sin
