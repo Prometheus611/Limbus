@@ -1,7 +1,9 @@
 -- 1 cinálj egy lekérdezést ami vissza adja a nevét és születés napját minden sinner-nek aki februárban született
 select Sinner_name, Bday from sinners
-where Bday like "%February%"
+where Bday like "%February%";
 -- 2 csinálj egy lekérdezést ami vissza adja a nevét minden sinnernek aki az év második felében született
+SELECT Sinner_name FROM sinners
+WHERE Bday LIKE "%July%" OR Bday LIKE "%August%" OR Bday LIKE "%September%" OR Bday LIKE "%October%" OR Bday LIKE "%November%" OR Bday LIKE "%December%";
 -- 3 csinálj egy lekérdezést ami vissza adja az utolsó 3 sinner nevét és az eredeti művet amiből származnak
 -- 4 csinálj egy lekérdezést ami vissza ad minden olyan EGO-t aminek az affinítása "lust"
 -- 5 csinálj egy lekérdezést ami vissza ad minden olyan EGO-t amit Don Quixote képes manifesztálni és aminek az affinítása "envy"  
