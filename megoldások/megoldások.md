@@ -1,5 +1,4 @@
 # feladatok és megoldások 1-8
-## [feladat lista](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/feladatok.txt)
 ### [1. feladat](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1s%201.sql) <br>
 ### [2. feladat](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1s%202.sql) <br>
 ### [3. feladat](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1s%203.sql) <br>
