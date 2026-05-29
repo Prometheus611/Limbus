@@ -7,4 +7,4 @@
 ### [6. feladat](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1s%206.sql) <br>
 ### [7. feladat](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1s%207.sql) <br>
 ### [8. feladat](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1s%208.sql) <br>
-<div style="text-align: right"> <sub>[vissza](https://github.com/Prometheus611/Limbus/blob/main/README.md)</sub> </div>
+<div style="text-align: right; width=100%"> <sub>[vissza](https://github.com/Prometheus611/Limbus/blob/main/README.md)</sub> </div>
