@@ -3,7 +3,7 @@ Ez a project a Limbus company nevű videojáték karaktereinek és ellenfeleinek
 # A webrepo a project dokumentációjaként szolgál
 
 adatbázis --> [Limbus.sql](https://github.com/Prometheus611/Limbus/blob/main/Limbus.sql) <br>
-tábla magyarázat --> main/Tables_explanation.txt <br>
-kapcsolatok --> main/kapcsolatok.png <br>
+tábla magyarázat --> [Tables_explanation.txt](https://github.com/Prometheus611/Limbus/blob/main/Tables_explanation.txt) <br>
+kapcsolatok --> [kapcsolatok.png](https://github.com/Prometheus611/Limbus/blob/main/Kapcsolatok.png) <br>
 feladatok --> feladatok/feladatok.txt <br>
 megoldások --> feladatok/megoldás 1-8
