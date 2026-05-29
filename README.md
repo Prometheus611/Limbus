@@ -7,3 +7,4 @@ tábla magyarázat --> [Tables_explanation.txt](https://github.com/Prometheus611
 kapcsolatok --> [kapcsolatok.png](https://github.com/Prometheus611/Limbus/blob/main/Kapcsolatok.png) <br>
 feladatok --> [feladatok.txt](https://github.com/Prometheus611/Limbus/blob/main/feladatok.txt) <br>
 megoldások --> [megoldások mappa](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1sok.md)
+[a](/Limbus/blob/main/feladatok.txt)
