@@ -23,7 +23,7 @@ CREATE TABLE IF NOT EXISTS `Abno` (
     `classification` VARCHAR(255),
     `Abno_name` VARCHAR(255),
     `risk` VARCHAR(255),
-    `E.G.O` VARCHAR(255)
+    `EGO` VARCHAR(255)
 );
 
 CREATE TABLE IF NOT EXISTS `Sins` (
