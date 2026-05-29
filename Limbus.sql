@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS `Sinners` (
 CREATE TABLE IF NOT EXISTS `EGO` (
     `id` INT PRIMARY KEY,
     `S_id` INT,
-    `E.G.O_name` varchar(255),
+    `EGO_name` varchar(255),
     `Abno` VARCHAR(255),
     `Sin_id` INT
 );
