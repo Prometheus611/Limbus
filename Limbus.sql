@@ -34,12 +34,12 @@ CREATE TABLE IF NOT EXISTS `Sins` (
 
 insert into sins values
 (1,"Wrath","burn"),
-(2,"Lust","burn"),
-(3,"Sloth","burn"),
-(4,"Gluttony","burn"),
-(5,"Gloom","burn"),
-(6,"Pride","burn"),
-(7,"Envy","burn");
+(2,"Lust","bleed"),
+(3,"Sloth","tremor"),
+(4,"Gluttony","rupture"),
+(5,"Gloom","sinking"),
+(6,"Pride","poise"),
+(7,"Envy","charge");
 
 insert into sinners values
 (1,"Yi Sang","The Wing","January 1",3,"Ha Yung"),
