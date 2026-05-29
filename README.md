@@ -6,5 +6,5 @@ adatbázis --> [Limbus.sql](https://github.com/Prometheus611/Limbus/blob/main/Li
 tábla magyarázat --> [Tables_explanation.txt](https://github.com/Prometheus611/Limbus/blob/main/Tables_explanation.txt) <br>
 kapcsolatok --> [kapcsolatok.png](https://github.com/Prometheus611/Limbus/blob/main/Kapcsolatok.png) <br>
 feladatok --> [feladatok.txt](https://github.com/Prometheus611/Limbus/blob/main/feladatok.txt) <br>
-megoldások --> [megoldások mappa](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1sok.md)
-[a](/Limbus/blob/main/feladatok.txt)
+megoldások --> [megoldások mappa](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1sok.md) <br>
+[a](/blob/main/feladatok.txt)
