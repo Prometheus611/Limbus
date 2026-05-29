@@ -5,4 +5,5 @@ Ez a project a Limbus company nevű videojáték karaktereinek és ellenfeleinek
 adatbázis --> main/Limbus.sql <br>
 tábla magyarázat --> main/Tables_explanation.txt <br>
 kapcsolatok --> main/kapcsolatok.png <br>
-feladatok --> main/feladatok.sql <br>
+feladatok --> feladatok/feladatok.txt <br>
+megoldások --> feladatok/megoldás 1-8
