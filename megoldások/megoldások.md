@@ -1,6 +1,6 @@
 # megoldások 1-8
-## [1](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1s%201.sql) <br>
-## [2](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1s%202.sql) <br>
+### [1](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1s%201.sql) <br>
+### [2](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1s%202.sql) <br>
 [3](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1s%203.sql) <br>
 [4](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1s%204.sql) <br>
 [5](https://github.com/Prometheus611/Limbus/blob/main/megold%C3%A1sok/megold%C3%A1s%205.sql) <br>
