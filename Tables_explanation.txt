@@ -10,7 +10,7 @@ EGO: contains information about all the EGOs the sinners can manifest during com
   id        Unique id Primary key
   S_id      The id of the sinner who can manifest the EGO Foreign key
   EGO_name  The name of the ego
-  Abon      The abnormality wich the EGO is extracted from  Foreign key
+  Abno      The abnormality wich the EGO is extracted from  Foreign key
   Sin_id    ID of the EGO's coresponding sin affinity Foregin key
 
 Abno: contains information about the abnormalities encountered by Limbus company
